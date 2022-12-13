@@ -1,0 +1,15 @@
+{
+    "development": {
+        "host": "newdatabase",
+        "port": 5432,
+        "user": "postgres",
+        "password": 123456,
+        "database": "newdatabase"
+    },
+    "test": {
+
+    },
+    "production": {
+
+    }
+}
